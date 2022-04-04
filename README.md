@@ -28,18 +28,19 @@ Learning challenges, lessons, tests and more from [Hacking with Swift](https://w
 
 ### Checkpoints 📍
 
-- 🔴 Checkpoint 1: Celsius to Fahrenheit;
-- 🔴 Checkpoint 2: Numbers and unique numbers in Array;
-- 🔴 Checkpoint 3: FizzBuzz;
-- 🔴 Checkpoint 4: Return the integer² of 1-10.000;
-- 🔴 Checkpoint 5: Filter, sort and mapping;
-- 🔴 Checkpoint 6: Create a struct to store information about a car;
-- 🔴 Checkpoint 7: Make a class hierarchy for animals with specific info;
-- 🔴 Checkpoint 8: Make a protocol that describes a building with specific info;
-- 🔴 Checkpoint 9: Function that accepts an optional array of integers, and returns one randomly. If the array is missing or empty, return a random number from 1-100.
+- 🟢 [Checkpoint 1: Celsius to Fahrenheit](https://github.com/roblesmontanari/100DaysOfSwift/tree/main/day1-14_Introduction/Checkpoint1.playground)
+- 🔴 Checkpoint 2: Numbers and unique numbers in Array
+- 🔴 Checkpoint 3: FizzBuzz
+- 🔴 Checkpoint 4: Return the integer² of 1-10.000
+- 🔴 Checkpoint 5: Filter, sort and mapping
+- 🔴 Checkpoint 6: Create a struct to store information about a car
+- 🔴 Checkpoint 7: Make a class hierarchy for animals with specific info
+- 🔴 Checkpoint 8: Make a protocol that describes a building with specific info
+- 🔴 Checkpoint 9: Function that accepts an optional array of integers, and returns one randomly. If the array is missing or empty, return a random number from 1-100
 
 ## Tools used 🛠
-- [XCODE](https://apps.apple.com/br/app/xcode/id497799835?mt=12) v13.3
+- MacBook Pro M1 2020 SSD 256gb RAM 8gb
+- [Xcode](https://apps.apple.com/br/app/xcode/id497799835?mt=12) v13.3
 - [GitHub Desktop](https://desktop.github.com)
 
 ### This is my official start point into Swift. Feel free to contact me by my [socials](https://linktr.ee/robles)! 🥸
