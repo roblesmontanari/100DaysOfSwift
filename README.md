@@ -29,7 +29,7 @@ Learning challenges, lessons, tests and more from [Hacking with Swift](https://w
 ### Checkpoints 📍
 
 - 🟢 [Checkpoint 1: Celsius to Fahrenheit](https://github.com/roblesmontanari/100DaysOfSwift/blob/main/day1-14_Introduction/Checkpoint1.playground/Contents.swift)
-- 🔴 Checkpoint 2: Numbers and unique numbers in Array
+- 🟢 [Checkpoint 2: Numbers and unique numbers in Array](https://github.com/roblesmontanari/100DaysOfSwift/blob/main/day1-14_Introduction/Checkpoint2.playground/Contents.swift)
 - 🔴 Checkpoint 3: FizzBuzz
 - 🔴 Checkpoint 4: Return the integer² of 1-10.000
 - 🔴 Checkpoint 5: Filter, sort and mapping
