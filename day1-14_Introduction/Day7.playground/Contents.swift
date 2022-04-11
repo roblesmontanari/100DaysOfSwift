@@ -75,3 +75,27 @@ let (firstName, lastName) = getUser2()
 print("Name: \(firstName) \(lastName)")
 
 //
+
+func hireEmployee(name: String) { }
+func hireEmployee(title: String) { }
+func hireEmployee(location: String) { }
+
+let lyric = "I see a red door and I want it painted black."
+print(lyric.hasPrefix("I see"))
+
+func isUpperCase1(_ string: String) -> Bool {
+    string == string.uppercased()
+}
+
+let string = "HELLO, WORLD"
+let result1 = isUpperCase1(string)
+
+func printTimesTable1(for number: Int) {
+    for i in 1...12 {
+        print("\(i) x \(number) is \(i * number)")
+    }
+}
+
+printTimesTable1(for: 5)
+
+//
