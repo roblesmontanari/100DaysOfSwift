@@ -53,3 +53,25 @@ print(c)
 func sayHello() {
     return
 }
+
+//
+
+func isUpperCase(string: String) -> Bool {
+    string == string.uppercased()
+}
+
+func getUser() -> (firstName: String, lastName: String) {
+    (firstName: "Taylor", lastName: "Swift")
+}
+
+let user = getUser()
+print("Name: \(user.firstName) \(user.lastName)")
+
+func getUser2() -> (firstName: String, lastName: String) {
+    (firstName: "Taylor", lastName: "Swift")
+}
+
+let (firstName, lastName) = getUser2()
+print("Name: \(firstName) \(lastName)")
+
+//
