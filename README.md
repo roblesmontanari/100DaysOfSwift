@@ -31,7 +31,7 @@ Learning challenges, lessons, tests and more from [Hacking with Swift](https://w
 - 🟢 [Checkpoint 1: Celsius to Fahrenheit](https://github.com/roblesmontanari/100DaysOfSwift/blob/main/day1-14_Introduction/Checkpoint1.playground/Contents.swift)
 - 🟢 [Checkpoint 2: Numbers and unique numbers in Array](https://github.com/roblesmontanari/100DaysOfSwift/blob/main/day1-14_Introduction/Checkpoint2.playground/Contents.swift)
 - 🟢 [Checkpoint 3: FizzBuzz](https://github.com/roblesmontanari/100DaysOfSwift/blob/main/day1-14_Introduction/Checkpoint3.playground/Contents.swift)
-- 🔴 Checkpoint 4: Return the integer² of 1-10.000
+- 🟢 [Checkpoint 4: Return the integer² of 1-10.000](https://github.com/roblesmontanari/100DaysOfSwift/blob/main/day1-14_Introduction/Checkpoint4.playground/Contents.swift)
 - 🔴 Checkpoint 5: Filter, sort and mapping
 - 🔴 Checkpoint 6: Create a struct to store information about a car
 - 🔴 Checkpoint 7: Make a class hierarchy for animals with specific info
