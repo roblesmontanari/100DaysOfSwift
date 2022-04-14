@@ -57,3 +57,27 @@ let captainFirstTeam = team.sorted(by: { (name1: String, name2: String) -> Bool 
 print(captainFirstTeam)
 
 //
+
+let friends = ["Robles", "Mariana", "Carlos", "João", "Rui"]
+
+let sortedFriends = friends.sorted {
+    if $0 == "Robles" {
+        return true
+    } else if $1 == "Robles" {
+        return false
+    }
+    return $0 < $1
+}
+
+print(sortedFriends)
+
+let reverseFriends = friends.sorted { $0 > $1 }
+print(reverseFriends)
+
+let rOnly = friends.filter { $0.hasPrefix("R") }
+print(rOnly)
+
+let uppercaseFriends = friends.map { $0.uppercased() }
+print (uppercaseFriends)
+
+//
