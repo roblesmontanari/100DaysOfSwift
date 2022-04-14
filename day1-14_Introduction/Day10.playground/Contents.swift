@@ -101,3 +101,18 @@ app.contacts.append("Allen W")
 app.contacts.append("Ish S")
 
 //
+
+struct Player {
+    let pName: String
+    let pNumber: Int
+    
+    init(pName: String) {
+        self.pName = pName
+        pNumber = Int.random(in: 1...99)
+    }
+}
+
+let player = Player(pName: "Neymar Jr.")
+print(player.pNumber)
+
+//
