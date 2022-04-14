@@ -44,3 +44,26 @@ let kane = Employee(name: "Lana Kane")
 let poover = Employee(name: "Pam Poovey", vacationRemaining: 35)
 
 //
+
+struct Employee1 {
+    let name1: String
+    var vacationAllocated = 14
+    var vacationTaken = 0
+    
+    var vacationRemaining1: Int {
+        get {
+            vacationAllocated - vacationTaken
+        }
+        
+        set {
+            vacationAllocated = vacationTaken + newValue
+        }
+    }
+}
+
+var john = Employee1(name1: "John Doe", vacationAllocated: 14)
+john.vacationTaken += 4
+john.vacationRemaining1 = 5
+print(john.vacationAllocated)
+
+//
