@@ -13,8 +13,8 @@
 import Cocoa
 
 struct Car {
-    let model = String.self
-    let seats = Int.self
+    let model: String
+    let seats: Int
     let maxGears: Int
     private(set) var gear = 1
     
