@@ -123,3 +123,17 @@ for i in 1...3 {
 print("Loop is finished!")
 persons.removeAll()
 print("Array is clear!")
+
+
+// how to work with variables inside classes
+
+class Friend {
+    var name = "Paul"
+}
+
+var friend = Friend()
+friend.name = "Taylor"
+friend = Friend()
+print(friend.name)
+
+//
