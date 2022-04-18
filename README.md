@@ -34,7 +34,7 @@ Learning challenges, lessons, tests and more from [Hacking with Swift](https://w
 - 🟢 [Checkpoint 4: Return the integer² of 1-10.000](https://github.com/roblesmontanari/100DaysOfSwift/blob/main/day1-14_Introduction/Checkpoint4.playground/Contents.swift)
 - 🟢 [Checkpoint 5: Filter, sort and mapping](https://github.com/roblesmontanari/100DaysOfSwift/blob/main/day1-14_Introduction/Checkpoint5.playground/Contents.swift)
 - 🟢 [Checkpoint 6: Create a struct to store information about a car](https://github.com/roblesmontanari/100DaysOfSwift/blob/main/day1-14_Introduction/Checkpoint6.playground/Contents.swift)
-- 🔴 Checkpoint 7: Make a class hierarchy for animals with specific info
+- 🟢 [Checkpoint 7: Make a class hierarchy for animals with specific info](https://github.com/roblesmontanari/100DaysOfSwift/blob/main/day1-14_Introduction/Checkpoint7.playground/Contents.swift)
 - 🔴 Checkpoint 8: Make a protocol that describes a building with specific info
 - 🔴 Checkpoint 9: Function that accepts an optional array of integers, and returns one randomly. If the array is missing or empty, return a random number from 1-100
 
