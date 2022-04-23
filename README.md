@@ -9,8 +9,8 @@ Learning challenges, lessons, tests and more from [Hacking with Swift](https://w
 
 ## Stages 🪜
 
-- 🟡 [Days 1-14: Introduction to Swift](https://github.com/roblesmontanari/100DaysOfSwift/tree/main/day1-14_Introduction)
-- 🔴 Day 15: Consolidation I
+- 🟢 [Days 1-14: Introduction to Swift](https://github.com/roblesmontanari/100DaysOfSwift/tree/main/day1-14_Introduction)
+- 🟡 Day 15: Consolidation I
 - 🔴 Days 16-24: Starting SwiftUI
 - 🔴 Day 25: Consolidation II
 - 🔴 Days 26-34: Expanding your skills
@@ -36,7 +36,7 @@ Learning challenges, lessons, tests and more from [Hacking with Swift](https://w
 - 🟢 [Checkpoint 6: Create a struct to store information about a car](https://github.com/roblesmontanari/100DaysOfSwift/blob/main/day1-14_Introduction/Checkpoint6.playground/Contents.swift)
 - 🟢 [Checkpoint 7: Make a class hierarchy for animals with specific info](https://github.com/roblesmontanari/100DaysOfSwift/blob/main/day1-14_Introduction/Checkpoint7.playground/Contents.swift)
 - 🟢 [Checkpoint 8: Make a protocol that describes a building with specific info](https://github.com/roblesmontanari/100DaysOfSwift/blob/main/day1-14_Introduction/Checkpoint8.playground/Contents.swift)
-- 🔴 Checkpoint 9: Function that accepts an optional array of integers, and returns one randomly. If the array is missing or empty, return a random number from 1-100
+- 🟢 [Checkpoint 9: Function that accepts an optional array of integers, and returns one randomly. If the array is missing or empty, return a random number from 1-100](https://github.com/roblesmontanari/100DaysOfSwift/blob/main/day1-14_Introduction/Checkpoint9.playground/Contents.swift)
 
 ## Tools used 🛠
 - MacBook Pro M1 2020 SSD 256gb RAM 8gb
