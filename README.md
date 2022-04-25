@@ -26,7 +26,7 @@ Learning challenges, lessons, tests and more from [Hacking with Swift](https://w
 - 🔴 Days 96-99: One last project
 - 🔴 Day 100: Wrap up
 
-### Checkpoints 📍
+#### Checkpoints 📍 (day 1 to 14)
 
 - 🟢 [Checkpoint 1: Celsius to Fahrenheit](https://github.com/roblesmontanari/100DaysOfSwift/blob/main/day1-14_Introduction/Checkpoint1.playground/Contents.swift)
 - 🟢 [Checkpoint 2: Numbers and unique numbers in Array](https://github.com/roblesmontanari/100DaysOfSwift/blob/main/day1-14_Introduction/Checkpoint2.playground/Contents.swift)
