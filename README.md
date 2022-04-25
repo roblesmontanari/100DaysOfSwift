@@ -10,8 +10,8 @@ Learning challenges, lessons, tests and more from [Hacking with Swift](https://w
 ## Stages 🪜
 
 - 🟢 [Days 1-14: Introduction to Swift](https://github.com/roblesmontanari/100DaysOfSwift/tree/main/day1-14_Introduction)
-- 🟡 Day 15: Consolidation I
-- 🔴 Days 16-24: Starting SwiftUI
+- 🟢 Day 15: Consolidation I
+- 🟡 Days 16-24: Starting SwiftUI
 - 🔴 Day 25: Consolidation II
 - 🔴 Days 26-34: Expanding your skills
 - 🔴 Day 35: Consolidation III
