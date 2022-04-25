@@ -7,6 +7,14 @@ Learning challenges, lessons, tests and more from [Hacking with Swift](https://w
 - In progress 🟡
 - Not iniciated 🔴
 
+
+#### Tools used 🛠
+- MacBook Pro M1 2020 SSD 256gb RAM 8gb
+- [Xcode](https://apps.apple.com/br/app/xcode/id497799835?mt=12) v13.3
+- [GitHub Desktop](https://desktop.github.com)
+
+#### This is my official start point into Swift. Feel free to contact me by my [socials](https://linktr.ee/robles)! 🥸
+
 ## Stages 🪜
 
 - 🟢 [Days 1-14: Introduction to Swift](https://github.com/roblesmontanari/100DaysOfSwift/tree/main/day1-14_Introduction)
@@ -38,9 +46,24 @@ Learning challenges, lessons, tests and more from [Hacking with Swift](https://w
 - 🟢 [Checkpoint 8: Make a protocol that describes a building with specific info](https://github.com/roblesmontanari/100DaysOfSwift/blob/main/day1-14_Introduction/Checkpoint8.playground/Contents.swift)
 - 🟢 [Checkpoint 9: Function that accepts an optional array of integers, and returns one randomly. If the array is missing or empty, return a random number from 1-100](https://github.com/roblesmontanari/100DaysOfSwift/blob/main/day1-14_Introduction/Checkpoint9.playground/Contents.swift)
 
-## Tools used 🛠
-- MacBook Pro M1 2020 SSD 256gb RAM 8gb
-- [Xcode](https://apps.apple.com/br/app/xcode/id497799835?mt=12) v13.3
-- [GitHub Desktop](https://desktop.github.com)
+#### Projects 🧩 (day 16 to 99)
 
-### This is my official start point into Swift. Feel free to contact me by my [socials](https://linktr.ee/robles)! 🥸
+- 🟡 [Project 1: Day 16 - 18](https://github.com/roblesmontanari/100DaysOfSwift/tree/main/day16-24_StartingSwiftUI/WeSplit)
+- 🔴 Project 2: Day 20 - 22
+- 🔴 Project 3: Day 23 - 24
+- 🔴 Project 4: Day 26 - 28
+- 🔴 Project 5: Day 29 - 31
+- 🔴 Project 6: Day 32 - 34
+- 🔴 Project 7: Day 36 - 38
+- 🔴 Project 8: Day 39 - 42
+- 🔴 Project 9: Day 43 - 46
+- 🔴 Project 10: Day 49 - 52
+- 🔴 Project 11: Day 53 - 56
+- 🔴 Project 12: Day 57 - 59
+- 🔴 Project 13: Day 62 - 67
+- 🔴 Project 14: Day 68 - 73
+- 🔴 Project 15: Day 74 - 76
+- 🔴 Project 16: Day 79 - 85
+- 🔴 Project 17: Day 86 - 91
+- 🔴 Project 18: Day 92 - 94
+- 🔴 Project 19: Day 96 - 99
