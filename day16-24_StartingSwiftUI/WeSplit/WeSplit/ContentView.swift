@@ -42,6 +42,7 @@ struct ContentView: View {
                     }
                 }
                 
+                // Change the tip percentage picker to show a new screen rather than using a segmented control, and give it a wider range of options – everything from 0% to 100%. Tip: use the range 0..<101 for your range rather than a fixed array.
                 Section {
                     Picker("Tip percentage", selection: $tipPercentage) {
                         ForEach(tipPercentages, id: \.self) {
@@ -53,8 +54,17 @@ struct ContentView: View {
                     Text("How much tip do you want to leave?")
                 }
                 
+                // Add a header to the third section, saying “Amount per person”
                 Section {
                     Text(totalPerPerson, format: .currency(code: Locale.current.currencyCode ?? "USD"))
+                } header: {
+                    Text("Amount per person")
+                }
+
+                Section {
+                    Text(checkAmount, format: .currency(code: Locale.current.currencyCode ?? "USD"))
+                } header: {
+                    Text("Total check amount")
                 }
             }
             .navigationTitle("WeSplit")
