@@ -48,8 +48,8 @@ Learning challenges, lessons, tests and more from [Hacking with Swift](https://w
 
 #### Projects 🧩 (day 16 to 99)
 
-- 🟡 [Project 1: Day 16 - 18](https://github.com/roblesmontanari/100DaysOfSwift/tree/main/day16-24_StartingSwiftUI/WeSplit)
-- 🔴 Project 2: Day 20 - 22
+- 🟢 [Project 1: WeSplit (Day 16 - 18)](https://github.com/roblesmontanari/100DaysOfSwift/tree/main/day16-24_StartingSwiftUI/WeSplit)
+- 🟡 Project 2: Day 20 - 22
 - 🔴 Project 3: Day 23 - 24
 - 🔴 Project 4: Day 26 - 28
 - 🔴 Project 5: Day 29 - 31
